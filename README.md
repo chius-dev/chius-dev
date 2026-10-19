@@ -1,5 +1,5 @@
 <br> <div align="center">
   <a href="https://chius.cc">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=2000&amp;color=A9B7C6&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%E2%9D%AF+curl+whoami.chius.cc" alt="Terminal Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=2000&amp;color=A9B7C6&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%E2%9D%AF+curl+chius.cc" alt="Terminal Typing Effect" />
   </a>
 </div>
